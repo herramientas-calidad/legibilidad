@@ -1,6 +1,6 @@
 # Legibilidad · Textos claros para pacientes
 
-Aplicación web: **https://herramientas-calidad.github.io/legibilidad/** (versión 2026.04).
+Aplicación web: **https://herramientas-calidad.github.io/legibilidad/** (versión 2026.05).
 
 Aplicación web (PWA) estática, sin dependencias y utilizable sin conexión, para medir la legibilidad de los textos dirigidos a pacientes (hojas informativas, recomendaciones al alta, consentimientos) y mejorarlos.
 
